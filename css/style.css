@@ -30,6 +30,7 @@
 * {
      box-sizing: border-box !important;
      transition: ease all 0.5s;
+     
 }
 
 html {
@@ -234,7 +235,7 @@ button {
     float: left;
 }
 .header_right{
-    width: 50%;
+    width: 45%;
     float: left; 
 }
 .banner_img{
